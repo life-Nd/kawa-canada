@@ -1,1 +1,60 @@
-IyBHZXR0aW5nIFN0YXJ0ZWQgd2l0aCBUaGlzIFByb2plY3RUaGlzIGd1aWRlIHdpbGwgaGVscCB5b3UgaW5zdGFsbCBHaXQgYW5kIG9wZW4gSFRNTCBmaWxlcyBsb2NhbGx5IOKAlCBwZXJmZWN0IGZvciBkZXZlbG9wZXJzIHJldmlld2luZyBvciBjdXN0b21pemluZyB0aGUgcHJvamVjdC4tLS0jIyDwn5qAIEluc3RhbGxhdGlvbiBTdGVwcyMjIyAxLiBJbnN0YWxsIEdpdCMjIyMgRm9yIG1hY09TOmBgYGJhc2hicmV3IGluc3RhbGwgZ2l0YGBgIyMjIyBGb3IgV2luZG93czpEb3dubG9hZCBhbmQgaW5zdGFsbCBHaXQgZnJvbSBbZ2l0LXNjbS5jb21dKGh0dHBzOi8vZ2l0LXNjbS5jb20vZG93bmxvYWQvd2luKS4jIyMjIEZvciBMaW51eCAoRGViaWFuL1VidW50dSk6YGBgYmFzaHN1ZG8gYXB0IHVwZGF0ZXN1ZG8gYXB0IGluc3RhbGwgZ2l0YGBgLS0tIyMjIDIuIENsb25lIHRoZSBSZXBvc2l0b3J5YGBgYmFzaGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20veW91ci11c2VybmFtZS95b3VyLXJlcG8uZ2l0Y2QgeW91ci1yZXBvYGBgLS0tIyMg8J+MkCBPcGVuIEhUTUwgRmlsZXNUbyB2aWV3IHRoZSBwcm9qZWN0IGluIHlvdXIgYnJvd3NlcjoxLiBOYXZpZ2F0ZSB0byB0aGUgcHJvamVjdCBmb2xkZXIuMi4gRmluZCB0aGUgYC5odG1sYCBmaWxlIChlLmcuLCBgaW5kZXguaHRtbGApLjMuIERvdWJsZS1jbGljayBpdCwgb3IgcmlnaHQtY2xpY2sgYW5kIHNlbGVjdCAqKk9wZW4gV2l0aCoqIOKGkiB5b3VyIHByZWZlcnJlZCBicm93c2VyLj4g8J+SoSBUaXA6IFVzZSBbTGl2ZSBTZXJ2ZXJdKGh0dHBzOi8vbWFya2V0cGxhY2UudmlzdWFsc3R1ZGlvLmNvbS9pdGVtcz9pdGVtTmFtZT1yaXR3aWNrZGV5LkxpdmVTZXJ2ZXIpIGluIFZTIENvZGUgZm9yIGxpdmUgcHJldmlld3MgYW5kIGF1dG8tcmVmcmVzaC4tLS0jIyDwn6SWIEJ1aWx0IHdpdGggQUkg4oCUIEZhc3RlciBUaGFuIEV2ZXJUaGlzIHByb2plY3Qgd2FzIGluc3BpcmVkIGJ5IHRoZSBzcGVlZCBhbmQgc2ltcGxpY2l0eSBvZiBbKipyYWZmYWVsbG8uZGV2KipdKGh0dHBzOi8vcmFmZmFlbGxvLmRldiksIGFuICoqQUktcG93ZXJlZCB3ZWIgYnVpbGRlcioqIHRoYXQgbGV0cyB5b3U6LSBCdWlsZCBzdHVubmluZyB3ZWJzaXRlcyBhbmQgVUkgY29tcG9uZW50cy0gRWRpdCB2aXN1YWxseSwgd2l0aCBjb2RlLCBvciB1c2luZyBBSS0gTWFuYWdlIGNvbnRlbnQgd2l0aCBhIGJ1aWx0LWluIENNU1doZXRoZXIgeW91J3JlIGRlc2lnbmluZyBmcm9tIHNjcmF0Y2ggb3IgaW1wcm92aW5nIHdoYXQgeW91IGNsb25lZCDigJQgcmFmZmFlbGxvLmRldiBtYWtlcyBpdCBmYXN0LCBlYXN5LCBhbmQgaW50dWl0aXZlLi0tLUhhcHB5IGNvZGluZyEg4pyo
+# Getting Started with This Project
+
+This guide will help you install Git and open HTML files locally — perfect for developers reviewing or customizing the project.
+
+---
+
+## 🚀 Installation Steps
+
+### 1. Install Git
+
+#### For macOS:
+\`\`\`bash
+brew install git
+\`\`\`
+
+#### For Windows:
+Download and install Git from [git-scm.com](https://git-scm.com/download/win).
+
+#### For Linux (Debian/Ubuntu):
+\`\`\`bash
+sudo apt update
+sudo apt install git
+\`\`\`
+
+---
+
+### 2. Clone the Repository
+
+\`\`\`bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+\`\`\`
+
+---
+
+## 🌐 Open HTML Files
+
+To view the project in your browser:
+
+1. Navigate to the project folder.
+2. Find the \`.html\` file (e.g., \`index.html\`).
+3. Double-click it, or right-click and select **Open With** → your preferred browser.
+
+> 💡 Tip: Use [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) in VS Code for live previews and auto-refresh.
+
+---
+
+## 🤖 Built with AI — Faster Than Ever
+
+This project was inspired by the speed and simplicity of [**raffaello.dev**](https://raffaello.dev), an **AI-powered web builder** that lets you:
+
+- Build stunning websites and UI components
+- Edit visually, with code, or using AI
+- Manage content with a built-in CMS
+
+Whether you're designing from scratch or improving what you cloned — raffaello.dev makes it fast, easy, and intuitive.
+
+---
+
+Happy coding! ✨
